@@ -202,7 +202,7 @@ h1:hover{
 }
 
 .mask, .gloves, .wipes {
-    padding: 13px;
+    padding: 10px;
     background-color: transparent;
     text-align: center;
     vertical-align: middle;
@@ -217,6 +217,6 @@ h1:hover{
 .mask:hover, .gloves:hover, .wipes:hover{
     border: 3px solid blueviolet;
     opacity: 70%;
-    padding: 10px;
+    padding: 7px;
 }
 
